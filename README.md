@@ -1,12 +1,17 @@
 # Projeto Lista de Imagens
 
-Projeto onde foi criado uma lista com algumas imagens e realizado o posicionamento correto dessas imagens. 🖼️
+Projeto onde foi criado uma lista com algumas imagens e realizado o posicionamento correto dessas imagens. Esse projeto foi criado de maneira responsiva para que seja acessado em diferentes tipos de tela 🖼️
 
-[    
-    - Versão mobile
-    <img src= "src/images/lista_imagens_mobile.gif">
-    - Versão desktop
+### Versão desktop
+
+[
     <img src= "src/images/lista_imagens.png">
+]
+
+
+### Versão mobile
+[    
+    <img src= "src/images/lista_imagens_mobile.gif">
     
 ]
 
